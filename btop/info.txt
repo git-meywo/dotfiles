@@ -1,1 +1,3 @@
 I use the Catppuccin theme for BTOP++: https://github.com/catppuccin/btop
+
+I also don't often check for updates, therefore, the theme in this repository is v1.0.0 and might not be up to date with the most recent version.
