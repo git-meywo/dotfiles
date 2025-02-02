@@ -1,0 +1,1 @@
+I use the Catppuccin theme for BTOP++: https://github.com/catppuccin/btop
