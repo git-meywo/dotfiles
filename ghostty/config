@@ -1,0 +1,8 @@
+# Set the theme for Ghostty:
+theme = catppuccin-mocha
+
+# Set the opacity:
+background-opacity = 0.8
+
+# Run Fish Shell:
+command = fish
